@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/sudo/Documents/NetBeansProjects/Placide/test/Dao/GenericDaoNGTest.java</file>
+            <file>file:/C:/Users/sudo/Documents/NetBeansProjects/Placide/src/View/Login.java</file>
+            <file>file:/C:/Users/sudo/Documents/NetBeansProjects/Placide/src/Dao/ClientDao.java</file>
+            <file>file:/C:/Users/sudo/Documents/NetBeansProjects/Placide/test/Dao/ClientDaoNGTest.java</file>
+            <file>file:/C:/Users/sudo/Documents/NetBeansProjects/Placide/src/Models/BookCategory.java</file>
+            <file>file:/C:/Users/sudo/Documents/NetBeansProjects/Placide/src/View/OperationsView.java</file>
+            <file>file:/C:/Users/sudo/Documents/NetBeansProjects/Placide/src/View/ClientRegistration.java</file>
+            <file>file:/C:/Users/sudo/Documents/NetBeansProjects/Placide/src/View/Desktop.java</file>
+            <file>file:/C:/Users/sudo/Documents/NetBeansProjects/Placide/src/PasswordEncryption/Encryption.java</file>
+            <file>file:/C:/Users/sudo/Documents/NetBeansProjects/Placide/src/hibernate.cfg.xml</file>
+            <file>file:/C:/Users/sudo/Documents/NetBeansProjects/Placide/src/Models/Operations.java</file>
+            <file>file:/C:/Users/sudo/Documents/NetBeansProjects/Placide/test/Dao/OperationDaoNGTest.java</file>
+            <file>file:/C:/Users/sudo/Documents/NetBeansProjects/Placide/src/Models/OperationCategory.java</file>
+            <file>file:/C:/Users/sudo/Documents/NetBeansProjects/Placide/src/Models/Book.java</file>
+            <file>file:/C:/Users/sudo/Documents/NetBeansProjects/Placide/src/Models/Client.java</file>
+            <file>file:/C:/Users/sudo/Documents/NetBeansProjects/Placide/src/View/BookView.java</file>
+            <file>file:/C:/Users/sudo/Documents/NetBeansProjects/Placide/src/Dao/OperationDao.java</file>
+            <file>file:/C:/Users/sudo/Documents/NetBeansProjects/Placide/src/Dao/GenericDao.java</file>
+            <file>file:/C:/Users/sudo/Documents/NetBeansProjects/Placide/src/Dao/BookCategoryDao.java</file>
+            <file>file:/C:/Users/sudo/Documents/NetBeansProjects/Placide/test/Dao/BookCategoryDaoNGTest.java</file>
+            <file>file:/C:/Users/sudo/Documents/NetBeansProjects/Placide/src/Dao/BookDao.java</file>
+        </group>
+    </open-files>
+</project-private>
